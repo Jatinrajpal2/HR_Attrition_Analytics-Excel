@@ -38,41 +38,34 @@ The main objective is to analyze HR data and identify:
 
 ---
 
-## 📊 Dashboard
+## 🗂️ Dataset
 
-The HR Analytics dashboard provides an interactive view of employee attrition and workforce-related metrics.
+The HR dataset contains employee-level information including:
 
-### 1. Employee Overview
-
-Provides an overall view of:
-
-- Total Employees
-- Active Employees
-- Total Attrition
-- Attrition Rate
-- Performance Rate
-
-### 2. Attrition Analysis
-
-Analyzes employee attrition based on:
-
-- Age Group
-- Department
+- Employee ID
+- Age
 - Gender
+- Department
 - Education Field
+- Job Role
+- Attrition
 - Business Travel
+- Job Satisfaction
+- Monthly Income
+- Employee Status
+- Performance-related information
 
-### 3. Job Role Analysis
+---
 
-Provides insights into:
+## 📈 Key KPIs
 
-- Job Role-wise Attrition
-- Average Job Satisfaction
-- Average Monthly Income
-
-### 4. Key Insights
-
-Highlights the major findings from the HR analysis and identifies important employee attrition patterns.
+| KPI | Value |
+|---|---:|
+| Total Employees | 1,470 |
+| Active Employees | 1,233 |
+| Total Attrition | 237 |
+| Attrition Rate | 16.12% |
+| Performance Rate | 3.15 |
 
 ---
 
@@ -96,37 +89,6 @@ Highlights the major findings from the HR analysis and identifies important empl
 
 ---
 
-## 📈 Key KPIs
-
-| KPI | Value |
-|---|---:|
-| Total Employees | 1,470 |
-| Active Employees | 1,233 |
-| Total Attrition | 237 |
-| Attrition Rate | 16.12% |
-| Performance Rate | 3.15 |
-
----
-
-## 🗂️ Dataset
-
-The HR dataset contains employee-level information including:
-
-- Employee ID
-- Age
-- Gender
-- Department
-- Education Field
-- Job Role
-- Attrition
-- Business Travel
-- Job Satisfaction
-- Monthly Income
-- Employee Status
-- Performance-related information
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Excel**
@@ -138,22 +100,6 @@ The HR dataset contains employee-level information including:
 - **Data Analysis**
 - **Data Visualization**
 - **HR Analytics**
-
----
-
-## 📊 Dashboard Features
-
-The dashboard includes interactive filters and visualizations for:
-
-- Gender
-- Department
-- Education Field
-- Age Group
-- Attrition
-- Business Travel
-- Job Role
-- Job Satisfaction
-- Monthly Income
 
 ---
 
