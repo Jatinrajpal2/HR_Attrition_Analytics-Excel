@@ -52,5 +52,3 @@ This project helped me strengthen my practical skills in Excel, data analysis, d
 ## 👤 Author
 
 **Jatin Rajpal**
-
-💬 Feedback and suggestions are always welcome!
